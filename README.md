@@ -24,7 +24,7 @@
 
 ### ⚡ Option 1: One-Click Install (Recommended)
 1. **📥 Grab the ready-to-use package**  
-   → [Download Latest Release](https://github.com/YourUsername/RSDragonwildGuide)
+   → [Download Latest Release](https://github.com/MisterXinji/RSDragonwildGuide.git)
 2. **📂 Unzip the downloaded file**  
    ```bash
    unzip RSDragonwildGuide.zip -d /your/game/guides/
